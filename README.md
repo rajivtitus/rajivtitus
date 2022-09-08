@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </h1>
 
 
-## About Me :
+### About Me :
 
 - :telescope: I’m a Web Developer who loves builiding intuitive web applications.
 
@@ -44,7 +44,9 @@ Here are some ideas to get you started:
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rajiv-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajiv-christopher)
 
-## Languages and Tools :
+<br />
+
+### Languages and Tools :
 
 <div id="tools">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
@@ -63,8 +65,9 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
 
+<br />
 
-## My Stats :
+### My Stats :
 
 <table>
   <tr>
