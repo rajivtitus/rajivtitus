@@ -69,6 +69,9 @@ Here are some ideas to get you started:
 
 ### My Stats :
 
+<img src="http://github-readme-streak-stats.herokuapp.com?user=rajivtitus&theme=dark&background=000000" alt="Github Streaks" /></td> | <img src="https://github-readme-stats.vercel.app/api?username=rajivtitus&count_private=true&theme=vision-friendly-dark&hide=stars" alt="Github Stats" />
+--|--
+
 <table>
   <tr>
     <td valign="top"><img src="http://github-readme-streak-stats.herokuapp.com?user=rajivtitus&theme=dark&background=000000" alt="Github Streaks" /></td>
